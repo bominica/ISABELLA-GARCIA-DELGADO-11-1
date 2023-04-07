@@ -1,0 +1,126 @@
+/* COLORES PALETA */
+
+*{
+    font-family:'Times New Roman', Times, serif;
+    
+}
+
+body{
+    background-color: #405173;
+    color: aliceblue;
+}
+
+ul li a{
+    font-size: 24px;
+}
+
+.text-navbar{
+    font-size: 30px;
+    
+}
+
+.link-fichas{
+    color: white;
+    text-decoration: none;
+    font-size: 14px;
+    text-transform: uppercase;
+}
+
+.card-ficha{
+    border: 2px solid #B9B4D9;
+    margin-bottom: 25px;
+}
+
+.card-ficha:hover{
+    cursor: pointer;
+    transform: scale(1.1);
+    transition: 0.2s ease;
+    background-color: #B9B4D9;
+}
+
+.border-ficha{
+    border: 2px solid #B9B4D9;
+    
+}
+
+.border-ficha:hover{
+    transform: scale(1.05);
+    transition: 0.2s ease;
+    
+}
+
+.navbar-sombra{
+    box-shadow: 2px 2px 5px 0px #283040;
+
+}
+
+ul li a:hover{
+    transform: scale(1.08);
+    transition: 0.2s ease;
+}
+
+.bg-color1{
+    background-color: #B9B4D9;
+    color: #fff;
+}
+
+.bg-color2{
+    background-color: #0A0B0D;
+    color: #fff;
+}
+
+.bg-color3{
+    background-color: #5D75A6;
+    color: #fff;
+}
+
+.bg-color4{
+    background-color: #405173;
+    color: #fff;
+}
+
+.bg-color5{
+    background-color: #283040;
+    color: #fff;
+}
+
+.navbar-color{
+     background-color: rgb(43, 87, 87);
+}
+
+
+.texto-referencia{
+    font-size: 52px;
+    box-shadow: 2px 2px 50px 0px #ccc;
+    text-transform: uppercase;
+}
+
+
+
+.texto-card{
+    font-size: 18px;
+    text-align: justify;
+}
+
+.titulo-card{
+    font-size: 28px;
+    font-weight: bold;
+    text-transform: capitalize;
+}
+
+.card-libro:hover{
+    transform: scale(1.01);
+    transition: 0.2s ease;
+}
+
+
+.logo-hover:hover{
+    transform: scale(1.1);
+    transition: 0.2s ease;
+}
+
+
+.footer{
+    font-size: 18px;
+}
+
